@@ -1,6 +1,36 @@
 ---
-title: "Keyframe-oriented Vision Token Pruning (KVTP)"
+layout: default               # keep whatever layout you already use
+title: "Keyframe-oriented Vision Token Pruning"
 ---
+
+<!-- ---------- HERO SECTION ---------- -->
+<style>
+/* quick local styles — move to assets/css later if you like */
+.hero      { text-align:center; margin:60px 0 80px; }
+.hero h1   { font-size:3.3rem; font-weight:700; line-height:1.1; margin:0 0 1rem; }
+.hero p    { margin:0.25rem 0; font-size:1.15rem; }
+.hero .btn {
+  display:inline-block; padding:0.6rem 1.7rem; margin:0.4rem 0.25rem;
+  border-radius:2rem; background:#1e1e1e; color:#fff; text-decoration:none;
+  font-size:1rem; font-weight:500;
+}
+.hero .btn:hover { background:#444; }
+</style>
+
+<div class="hero">
+  <h1>Keyframe-oriented Vision Token Pruning:<br>
+      Enhancing Efficiency of Large Vision-Language Models<br>
+      on Long-Form Video Processing</h1>
+
+  <p>Yudong&nbsp;Liu<sup>1</sup>, Jingwei&nbsp;Sun<sup>1</sup>, Yueqian&nbsp;Lin<sup>1</sup>, 
+     Jingyang&nbsp;Zhang<sup>1</sup>, Ming&nbsp;Yin<sup>1</sup>, Qinsi&nbsp;Wang<sup>1</sup>, 
+     Jianyi&nbsp;Zhang<sup>1</sup>, Hai&nbsp;Li<sup>1</sup>, Yiran&nbsp;Chen<sup>1</sup></p>
+  <p><sup>1</sup>Duke University · <em>ICCV 2025 (accepted)</em></p>
+
+  <a class="btn" href="https://arxiv.org/abs/2503.10742" target="_blank">📄 Paper</a>
+  <a class="btn" href="https://github.com/1999Lyd/KVTP/tree/main" target="_blank">💻 Code</a>
+</div>
+
 
 ## 🚀 News  
 **August 2025:** *Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision-Language Models on Long-Form Video Processing* has been **accepted at ICCV 2025**! 🎉
