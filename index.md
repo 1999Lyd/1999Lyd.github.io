@@ -103,7 +103,8 @@ A lightweight **frame relevance predictor** is trained on SKV-QA and can be plug
 
 ---
 
-## Citation
+## Citation           <!-- heading -->
+
 ```bibtex
 @inproceedings{liu2025kvtp,
   title     = {Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision-Language Models on Long-Form Video Processing},
