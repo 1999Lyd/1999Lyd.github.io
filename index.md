@@ -1,4 +1,5 @@
 ---
+stylesheet: assets/css/hero
 layout: default               # keep whatever layout you already use
 title: "Keyframe-oriented Vision Token Pruning"
 ---
