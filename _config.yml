@@ -1,5 +1,5 @@
 title: "Keyframe-oriented Vision Token Pruning"
-author: "Yudong Liu et al."
-description: "ICCV 2025 paper – efficient long-video processing for VLMs"
-theme: minima          # built-in Jekyll theme
+description: "ICCV 2025 · Efficient long-video processing for VLMs"
+remote_theme: pages-themes/cayman@v0.2.0   # any Pages theme works
+plugins: [jekyll-remote-theme]             # required for remote_theme
 markdown: kramdown
