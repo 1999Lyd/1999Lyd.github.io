@@ -22,7 +22,7 @@ Experiments on VLMs of various scales show that KVTP can **reduce token usage by
 
 ---
 
-![Overall results of KVTP across benchmarks](assets/performance.pdf)
+![Overall results of KVTP across benchmarks](assets/performance.jpg)
 
 ---
 
