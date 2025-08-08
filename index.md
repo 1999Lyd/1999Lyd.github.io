@@ -31,7 +31,7 @@ Experiments on VLMs of various scales show that KVTP can **reduce token usage by
 ### SKV-QA Dataset Construction  
 We build **SKV-QA**, a training & evaluation benchmark for sparse-event, long-video QA by combining 7 open-source datasets (VideoMME, EgoSchema, NeXT-QA, …).
 
-![SKV-QA construction pipeline](assets/data.png)
+![SKV-QA construction pipeline](assets/data.pdf)
 
 ### Frame Relevance Predictor & Token Pruning  
 A lightweight **frame relevance predictor** is trained on SKV-QA and can be plugged into any existing token-pruning pipeline.
