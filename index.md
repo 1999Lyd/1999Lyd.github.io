@@ -34,7 +34,7 @@ title: "Keyframe-oriented Vision Token Pruning"
 
 
 ## 🚀 News  
-**August 2025:** *Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision-Language Models on Long-Form Video Processing* has been **accepted at ICCV 2025**! 🎉
+**July 2025:** *Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision-Language Models on Long-Form Video Processing* has been **accepted at ICCV 2025**! 🎉
 
 ---
 
