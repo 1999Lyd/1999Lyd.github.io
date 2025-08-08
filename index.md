@@ -103,7 +103,7 @@ A lightweight **frame relevance predictor** is trained on SKV-QA and can be plug
 
 ---
 
-## Citation           <!-- heading -->
+## Citation
 
 ```bibtex
 @inproceedings{liu2025kvtp,
@@ -112,3 +112,5 @@ A lightweight **frame relevance predictor** is trained on SKV-QA and can be plug
   booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   year      = {2025}
 }
+
+
