@@ -1,0 +1,54 @@
+/* assets/css/hero.css  */
+/* Basic “hero” typography & pill buttons            */
+
+.hero{
+  text-align:center;
+  margin:60px 0 80px;          /* top / bottom spacing */
+}
+
+.hero h1{
+  font-size:clamp(2.2rem,5vw,3.6rem);
+  font-weight:700;
+  line-height:1.1;
+  margin:0 0 1rem;
+}
+
+.hero p{
+  margin:.25rem 0;
+  font-size:1.15rem;
+}
+
+.hero sup{                 /* for affiliation footnotes (¹) */
+  font-size:.6em;
+}
+
+/* pill buttons */
+.hero .btn{
+  display:inline-block;
+  padding:.6rem 1.7rem;
+  margin:.45rem .3rem;
+  border-radius:2rem;
+  background:#1e1e1e;
+  color:#fff;
+  text-decoration:none;
+  font-size:1rem;
+  font-weight:500;
+  transition:background .2s ease;
+}
+
+.hero .btn:hover,
+.hero .btn:focus{
+  background:#444;
+}
+
+/* Dark-mode tweak: invert button colours */
+@media (prefers-color-scheme: dark){
+  .hero .btn{
+    background:#e0e0e0;
+    color:#111;
+  }
+  .hero .btn:hover,
+  .hero .btn:focus{
+    background:#c7c7c7;
+  }
+}
