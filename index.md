@@ -38,12 +38,6 @@ title: "Keyframe-oriented Vision Token Pruning"
 
 ---
 
-## Links
-- **Paper:** <https://arxiv.org/abs/2503.10742>  
-- **Code:** <https://github.com/1999Lyd/KVTP/tree/main>
-
----
-
 ## Abstract
 Vision-language models (VLMs) demonstrate strong capabilities in jointly processing visual and textual data. However, they often incur substantial computational overhead due to redundant visual information, particularly in long-form video scenarios. Existing approaches predominantly focus on either vision token pruning, which may overlook spatio-temporal dependencies, or keyframe selection, which identifies informative frames but discards others, thus disrupting contextual continuity.
 
