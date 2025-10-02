@@ -26,7 +26,7 @@ title: "Keyframe-oriented Vision Token Pruning"
   <p>Yudong&nbsp;Liu<sup>1</sup>, Jingwei&nbsp;Sun<sup>1</sup>, Yueqian&nbsp;Lin<sup>1</sup>, 
      Jingyang&nbsp;Zhang<sup>1</sup>, Ming&nbsp;Yin<sup>1</sup>, Qinsi&nbsp;Wang<sup>1</sup>, 
      Jianyi&nbsp;Zhang<sup>1</sup>, Hai&nbsp;Li<sup>1</sup>, Yiran&nbsp;Chen<sup>1</sup></p>
-  <p><sup>1</sup>Duke University · <em>ICCV 2025 (accepted)</em></p>
+  <p><sup>1</sup>Duke University · <em>ICCV 2025</em></p>
 
   <a class="btn" href="https://arxiv.org/abs/2503.10742" target="_blank">📄 Paper</a>
   <a class="btn" href="https://github.com/1999Lyd/KVTP/tree/main" target="_blank">💻 Code</a>
